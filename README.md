@@ -1,6 +1,5 @@
 ### Hi there 👋 My name is Zintle
 
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on anything related to code
 - 📫 How to reach me [meslanezintle@gmail.com](mailto:meslanezintle@gmail.com)
 
